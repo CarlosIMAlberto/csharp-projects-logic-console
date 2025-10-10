@@ -43,3 +43,4 @@ MediaDeNotas/MediaDeNotas.csproj
 10.ListasDeCompras/bin/Debug/net9.0/10.ListasDeCompras.exe
 10.ListasDeCompras/bin/Debug/net9.0/10.ListasDeCompras.pdb
 10.ListasDeCompras/bin/Debug/net9.0/10.ListasDeCompras.runtimeconfig.json
+/12.DiceRollSimulator/obj
