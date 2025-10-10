@@ -1,0 +1,15 @@
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.AssemblyInfoInputs.cache
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.AssemblyInfo.cs
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.csproj.CoreCompileInputs.cache
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.sourcelink.json
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\bin\Debug\net9.0\11.PrimeNumberChecker.exe
+C:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\bin\Debug\net9.0\11.PrimeNumberChecker.deps.json
+C:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\bin\Debug\net9.0\11.PrimeNumberChecker.runtimeconfig.json
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\bin\Debug\net9.0\11.PrimeNumberChecker.dll
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\bin\Debug\net9.0\11.PrimeNumberChecker.pdb
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.dll
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\refint\11.PrimeNumberChecker.dll
+c:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.pdb
+C:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\11.PrimeNumberChecker.genruntimeconfig.cache
+C:\Users\Carlos Alberto\Documents\GitHub\csharp-projects-logic-console\11.PrimeNumberChecker\obj\Debug\net9.0\ref\11.PrimeNumberChecker.dll
